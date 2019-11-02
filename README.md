@@ -2,7 +2,7 @@
 
 This repository contains implementations for
 
-Sweta Agrawal and Marine Carpuat, "Controlling Text Complexity in Neural Machine Translation", EMNLP-IJCNLP 2019.
+Sweta Agrawal and Marine Carpuat. "Controlling Text Complexity in Neural Machine Translation". EMNLP-IJCNLP 2019.
 
 ## Usage Instructions
 1. Run bash [setup.sh](setup.sh) to obtain necessary software.
