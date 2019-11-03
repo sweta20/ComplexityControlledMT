@@ -1,6 +1,6 @@
 # Complexity Controlled MT
 
-This repository contains implementations for
+This repository contains implementation for
 
 Sweta Agrawal and Marine Carpuat. "Controlling Text Complexity in Neural Machine Translation". EMNLP-IJCNLP 2019.
 
